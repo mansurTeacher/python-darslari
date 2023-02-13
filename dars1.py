@@ -4,5 +4,5 @@ if yosh<=4:
 elif yosh<=12:
      print("sizga kirish 500 som")
 else:
-    print("sizga kirish 10000som") 
+    print("sizga ") ;
     
